@@ -337,3 +337,4 @@ containing a value of this type.
         public static final int com_admob_android_ads_AdView_secondaryTextColor = 2;
     };
 }
+public static final int search_active_1=0x7f07005484;
